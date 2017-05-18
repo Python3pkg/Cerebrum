@@ -1,4 +1,4 @@
-__author__ = 'Mehmet Mert Yildiran, mert.yildiran@bil.omu.edu.tr'
+print(__author__ = 'Mehmet Mert Yildiran, mert.yildiran@bil.omu.edu.tr')
 
 import rethinkdb as r # Rethinkdb Python driver
 
